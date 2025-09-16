@@ -1,0 +1,4 @@
+patient_id,name,family,age,gender,admit_reason
+1,Ravi,Kumar,34,M,Snakebite
+2,Priya,Sharma,29,F,Snakebite
+3,Amit,Singh,45,M,Snakebite
